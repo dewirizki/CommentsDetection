@@ -83,20 +83,20 @@ def LoadStopWords(lang, sentiment = True):
     if sentiment:
         if L == 'en' or L == 'english' or L == 'inggris':
             lemmatizer = WordNetLemmatizer()
-            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = './Stopwords'))[0]])
+            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = '../Stopwords'))[0]])
         elif L == 'id' or L == 'indonesia' or L == 'indonesian':
             lemmatizer = Indonesian()
-            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = './Stopwords'))[0]])
+            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = '../Stopwords'))[0]])
         else:
             print('Warning! Languange not recognized. Empty stopword given')
             stops = set(); lemmatizer = None
     else:
         if L == 'en' or L == 'english' or L == 'inggris':
             lemmatizer = WordNetLemmatizer()
-            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = './Stopwords_eng'))[0]])
+            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = '../Stopwords_eng'))[0]])
         elif L == 'id' or L == 'indonesia' or L == 'indonesian':
             lemmatizer = Indonesian()
-            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = './Stopwords'))[0]])
+            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = '../Stopwords'))[0]])
         else:
             print('Warning! Languange not recognized. Empty stopword given')
             stops = set(); lemmatizer = None
@@ -122,10 +122,16 @@ def getTags(T):
     
     return ', '.join(isitag)
 
-def cleanText(T, fix={}, pattern2 = False, lang = 'id', lemma=None, stops = set(), symbols_remove = False, numbers_remove = False, hashtag_remove = False, min_charLen = 0):
+def cleanText(T, fix={},pattern2 = False, lang = 'id', lemma=None, stops = set(), symbols_remove = False, numbers_remove = False, hashtag_remove = False, min_charLen = 0):
     # lang & stopS only 2 options : 'en' atau 'id'
     # symbols ASCII atau alnum
     pattern = re.compile(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+')
+    if pattern2:
+        pattern2 = re.compile(r'@(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+') #remove@
+        t = re.sub(pattern2, ' ',T)
+    else:
+        t = T
+    t = re.sub(pattern,' ',t) #remove urls if any
     t = unescape(t) # html entities fix
     if hashtag_remove:
         t = getTags(t) # fix abcDef

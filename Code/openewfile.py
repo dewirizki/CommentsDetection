@@ -2,10 +2,10 @@ from __future__ import print_function
 import os
 
 def openfile(path):
-    result = [] 
+    results = [] 
     files = os.listdir(path)
     for name in files:
-        result.append(name)
-    result.sort(reverse = True)
+        results.append(name)
+    results.sort(reverse = True)
 
-    return(path+'/'+result[0])
+    return(path+'/'+results[0])

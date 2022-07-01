@@ -238,7 +238,7 @@ gilaaakk:gila
 gpp:tidak apa apa
 gela:gila
 ggila:gila
-gerrrrrraaaaaahhh:gerah
+gerrrrrraaaaaahhh:panas
 gilakkk:gila
 gilaaaaa:gila
 ganas:ganas-ganas
@@ -265,7 +265,7 @@ history:sejarah
 hayooooo:ayo
 hadirr:hadir
 hatihati:hati-hati
-hati2:hatti-hati
+hati2:hati-hati
 how:bagaimana
 hahahanjing:anjing
 ikuttt:ikut
@@ -358,7 +358,7 @@ kerenn:keren
 keeereeeeeennnnn:keren
 kbnykn:kebanyakan
 keceh:keren
-katanykatanya
+katany:katanya
 karyaa:karya
 kerennnn:keren
 kerennn:keren
@@ -593,7 +593,6 @@ p:bapak
 pecaaaahhhhhh:pecah
 parahhh:parah
 q:saya
-#qimak:
 quit:keluar
 real:asli
 rapwh:rap
