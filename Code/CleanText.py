@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 def cleanningtext(data, both = True, onlyclean = False, sentiment = False):
     print('Cleaning Text')
-    fSlang = of.openfile(path = '../Slangwords')
+    fSlang = of.openfile(path = 'Slangwords')
     bahasa = 'id'
     stops, lemmatizer = tm.LoadStopWords(bahasa, sentiment = sentiment)
     sw=open(fSlang,encoding='utf-8', errors ='ignore', mode='r');SlangS=sw.readlines();sw.close()

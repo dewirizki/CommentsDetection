@@ -83,20 +83,20 @@ def LoadStopWords(lang, sentiment = True):
     if sentiment:
         if L == 'en' or L == 'english' or L == 'inggris':
             lemmatizer = WordNetLemmatizer()
-            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = '../Stopwords'))[0]])
+            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = 'Stopwords'))[0]])
         elif L == 'id' or L == 'indonesia' or L == 'indonesian':
             lemmatizer = Indonesian()
-            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = '../Stopwords'))[0]])
+            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = 'Stopwords'))[0]])
         else:
             print('Warning! Languange not recognized. Empty stopword given')
             stops = set(); lemmatizer = None
     else:
         if L == 'en' or L == 'english' or L == 'inggris':
             lemmatizer = WordNetLemmatizer()
-            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = '../Stopwords_eng'))[0]])
+            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = 'Stopwords_eng'))[0]])
         elif L == 'id' or L == 'indonesia' or L == 'indonesian':
             lemmatizer = Indonesian()
-            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = '../Stopwords'))[0]])
+            stops = set([t.strip() for t in LoadDocuments(file = of.openfile(path = 'Stopwords'))[0]])
         else:
             print('Warning! Languange not recognized. Empty stopword given')
             stops = set(); lemmatizer = None
