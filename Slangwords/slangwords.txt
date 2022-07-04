@@ -222,6 +222,7 @@ gua:saya
 game:permainan
 gassss:ayo
 gile:gila
+geserblackpig:blackpink
 gue:saya
 golvot:golput
 gg:permainan bagus
@@ -329,6 +330,7 @@ joko:jokowi
 jokowiiii:jokowi
 jokowilagi:jokowi lagi
 kereeeeennnnn:keren
+kereeennnn:keren
 klh:kalah
 km:kamu
 kmu:kamu
