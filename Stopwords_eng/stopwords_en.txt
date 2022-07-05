@@ -103,8 +103,6 @@ call
 came
 can
 cannot
-cant
-can't
 cause
 causes
 certain
@@ -393,7 +391,6 @@ often
 oh
 ok
 okay
-old
 omitted
 on
 once
@@ -496,7 +493,6 @@ serious
 seven
 several
 shall
-she
 shed
 she'll
 shes

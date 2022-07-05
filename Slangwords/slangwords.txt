@@ -3,15 +3,18 @@ ayoookkk:ayo
 ank:anak
 asiiyaaap:siap
 ay:saya
+anjayyy:anjay
 aowkwok:tertawa
 aseemmm:asem
 apa3:apa-apa
 afk:pergi
+anjir:keren
 ashiiaaapppp:siap
 abeezzz:abis
 abisssss:abis
-akuta:aku
+akuta:ak
 ambyarr:ambyar
+ampuuun:ampun
 amburadul:berantakan
 all:semua
 aseeeeekkkk:asik
@@ -56,11 +59,13 @@ bkn:bukan
 boker:buang air besar
 benar2:benar-benar
 bngsd:bangsat
+bngst:bangsat
 bagussss:bagus
 bless:menyertai
 badaii:badai
 baddaazzzzzzzzz:keren
 bgtttt:banget
+bgt:banget
 bgttt:banget
 berenti:berhenti
 began:dimulai
@@ -111,6 +116,7 @@ berkali":berkali-kali
 bener2:benar benar
 blacpink:blackpink
 bapa:bapak
+bnget:banget
 bangettt:banget
 bangettttt:banget
 bangett:banget
@@ -208,6 +214,7 @@ freak:aneh
 from:dari
 funny:lucu
 fikirkan:pikirkan
+faham:paham
 fuckkkkkk:sialan
 fak:sialan
 fansnya:penggemarnya
@@ -219,20 +226,24 @@ gegara:gara gara
 gx:tidak
 gueh:saya
 gua:saya
+gilaaaaaaa:gila
 game:permainan
 gassss:ayo
 gile:gila
 geserblackpig:blackpink
 gue:saya
+gileeee:keren
 golvot:golput
 gg:permainan bagus
 goal:tujuan
 gokssssd:keren
 gookksss:keren
 guys:teman-teman
+gillaa:gila
 god:tuhan
 ggwp:good game well played
 gilaaa:gila
+gilaa:gila
 gilaaaaaa:gila
 gilaaaaa:gila
 gilla:gila
@@ -256,13 +267,13 @@ goosebumps:merinding
 great:hebat
 ga:tidak
 geserr:geser
-good:bagus
 gmna:gimana
 gokil:keren
 guenih:saya
 golout:golput
 gokill:keren
 gk:tidak
+hrus:harus
 hoax:berita palsu
 hoby:hobi
 hacep:pecah
@@ -273,6 +284,7 @@ history:sejarah
 hayooooo:ayo
 hadirr:hadir
 hatihati:hati-hati
+hbis:habis
 hati2:hati-hati
 how:bagaimana
 hahahanjing:anjing
@@ -360,6 +372,7 @@ ksni:kesini
 kece:keren
 kick:keluarkan
 kallo:kalau
+kereeeen:keren
 keceee:keren
 klo:kalau
 kurng:kurang
@@ -422,6 +435,7 @@ kidiw:wow
 lejen:legend
 lo:kamu
 lagikah:lagi
+luewwwbsbjen:legend
 lyrics:lirik
 lamaan:lama
 liat:lihat
@@ -437,6 +451,10 @@ lmao:tertawa terpingkal-pingkal
 lanjutkn:lanjtkan
 loe:kamu
 lg:lagi
+liittt:keren
+lit:keren
+litt:keren
+littt:keren
 lagiii:lagi
 laugh:tertawa
 lagii:lagi
@@ -452,6 +470,7 @@ mantaap:mantap
 mantraaaaaaappppppp:mantap
 mantapppp:mantap
 musiknyaaa:musiknya
+mantapsss:mantap
 mengolok2:mengolok-ngolok
 maen:main
 merindingggg:merinding
@@ -466,6 +485,7 @@ mainnnnn:main
 moment:momen
 makin:semakin
 malem2:malam malam
+mobuewl:mobile
 mesquen:miskin
 manut:nurut
 mk:mahkamah konstitusi
@@ -543,9 +563,11 @@ ngarit:mencari rumput
 n:dan
 notice:memperhatikan
 nontn:nonton
+nyalib:menyusul
 next:selanjutnya
 nntn:nonton
 niru:meniru
+ntab:mantap
 nontonkarna:nonton karena
 now:sekarang
 nicee:baik
@@ -565,6 +587,7 @@ nyadar:sadar
 ntap:mantap
 opinion:opini
 omg:ya tuhan
+org:orang
 org2:orang-orang
 ori:asli
 oot:diluar topik
@@ -624,6 +647,7 @@ review:ulasan
 rival:lawan
 rythem:ritme
 report:laporan
+request:usul
 rimex:remix
 reac:reaksi
 responnya:tanggapannya
@@ -632,6 +656,7 @@ siapaa:siapa
 sangaat:sangat
 shiap:siap
 suwe:sialan
+sya:saya
 syekaliiiiii:sekali
 seruuu:seru
 sharing":membagi-bagikan
@@ -653,6 +678,7 @@ sodara2:saudara-saudara
 same:sama
 skg:sekarang
 sue:sial
+shskrng:sekarang
 salut:bangga
 sindir2an:sindir-sindiran
 sll:selalu
@@ -691,6 +717,9 @@ sdah:sudah
 sprti:seperti
 sbatas:sebatas
 sbgainy:sebagainya
+skinyy:skinnyindonesian24
+skiny:skinnyindonesian24
+skinny:skinnyindonesian24
 stop:menghentikan
 sejahtre:sejahtera
 sumpahhh:sumpah
@@ -801,6 +830,7 @@ vuman:cuma
 views:menonton
 vierws:penonton
 viewers:penonton
+videony:videonya
 vidio:videonya
 videoklip:video klip
 w:saya
