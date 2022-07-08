@@ -1,15 +1,29 @@
 ak:aku
+atao:atau
+agr:agar
+anjiiiiiiiingggggg:anjing
 ayoookkk:ayo
+arogant:arogan
+akutuuu:aku
+ad:ada
 ank:anak
+ando:andovi
+asiiiiiiiiiipppppp:siap
 asiiyaaap:siap
 ay:saya
 anjayyy:anjay
 aowkwok:tertawa
+anak2:anak-anak
+aowkwkwkwk:tertawa
 aseemmm:asem
+aowkwkwk:tertawa
 apa3:apa-apa
+ahirnya:akhirnya
 afk:pergi
+abisssssss:abis
 anjir:keren
 ashiiaaapppp:siap
+abiss:abis
 abeezzz:abis
 abisssss:abis
 akuta:ak
@@ -56,6 +70,7 @@ bangg:bang
 bnr:benar
 bawa2:bawa-bawa
 bkn:bukan
+bkan:bukan
 boker:buang air besar
 benar2:benar-benar
 bngsd:bangsat
@@ -67,15 +82,20 @@ baddaazzzzzzzzz:keren
 bgtttt:banget
 bgt:banget
 bgttt:banget
+bgtt:banget
 berenti:berhenti
 began:dimulai
 bacotttt:banyak bicara
 by:dengan
+bngt:banget
 bar:rusuh
 btw:omong-omong
 bngttt:banget
 boy:laki-laki
 bangsaaattttt:bangsat
+bestttt:best
+besttt:best
+bisa2:bisa-bisa
 blum:belum
 bebebrapa:beberapa
 bagusss:bagus
@@ -85,6 +105,7 @@ bangeett:banget
 batzzz:banget
 bentar:sebentar
 berenti:berhenti
+bgini:begini
 bgitu:begitu
 belom:belum
 benerbener:bener-bener
@@ -94,6 +115,7 @@ bgus:bagus
 bosen:bosan
 bullying:perundungan
 bet:banget
+bangeeet:banget
 bangeeetttt:banget
 batle:battle
 berak:buang air besar
@@ -108,6 +130,7 @@ bacot:banyak bicara
 bacod:banyak bicara
 bosen":bosan bosan
 brp:berapa
+bsa:bisa
 bs:bisa
 bangeettgy:banget
 bikin:membuat
@@ -123,11 +146,16 @@ bangett:banget
 bui:penjara
 bosenin:membosankan
 brita:berita
+bangetzzzzz:banget
 blum:belum
 balik:kembali
 baper:bawa perasaan
+bowo:prabowo
+bbbuanget:banget
 broda:saudara
 blook:bodoh
+bner2:benar-benar
+blekping:blackpink
 brtohers:saudara
 bingiiittzzz:banget
 boneka2an:boneka-boneka
@@ -161,6 +189,7 @@ cokmus:coki muslim
 cakepppp:bagus
 candraliaw:chandraliow
 cool:keren
+curhat:cerita
 cringe:jijik
 cungkring:kurung tinggi
 comen:komentar
@@ -172,19 +201,24 @@ dsmbrr:desember
 dislike:tidak suka
 dalem:bermakna
 daripa:daripada
+dilapangn:dilapangan
 denger:dengar
+dahlah:sudahlah
 dngar:dengar
+danger:dengar
 dgn:dengan
 dnwld:unduhan
 diki2:sedikit
+depat:debat
 dewe:sendiri
 diitung:dihitung
 disangka2:disangka-sangka
-dgn:dengan
+dg:dengan
 dichanel:dichannel
 dsni:disini
 deficit:defisit
 dlam:dalam
+dlu:dulu
 downnn:down
 disslike:tidak suka
 dawasalah:dewasalah
@@ -198,6 +232,9 @@ easy:mudah
 elo:kamu
 emel:mobile legend
 emng:emang
+emnggg:emang
+emg:emang
+epicccc:epic
 easily:mudah
 embel2:embel-embel
 erb:epic rap battle
@@ -209,8 +246,11 @@ ending:akhirnya
 fav:favorit
 fix:pasti
 fales:fals
+flem:film
+flemnya:filmnya
 flow:mengalir
 freak:aneh
+fireeeeee:fire
 from:dari
 funny:lucu
 fikirkan:pikirkan
@@ -223,6 +263,7 @@ fucek:sialan
 fans:penggemar
 gw:saya
 gegara:gara gara
+guwa:saya
 gx:tidak
 gueh:saya
 gua:saya
@@ -236,8 +277,11 @@ gileeee:keren
 golvot:golput
 gg:permainan bagus
 goal:tujuan
+goksss:keren
 gokssssd:keren
+goks:keren
 gookksss:keren
+gatuh:tidak
 guys:teman-teman
 gillaa:gila
 god:tuhan
@@ -254,6 +298,7 @@ gilaaakk:gila
 gpp:tidak apa apa
 gela:gila
 ggila:gila
+gasss:gas 
 gerrrrrraaaaaahhh:panas
 gilakkk:gila
 gilaaaaa:gila
@@ -266,19 +311,23 @@ gara2:gara-gara
 goosebumps:merinding
 great:hebat
 ga:tidak
+g:tidak
 geserr:geser
 gmna:gimana
 gokil:keren
 guenih:saya
 golout:golput
 gokill:keren
+gimanayah:gimana
 gk:tidak
 hrus:harus
+hoaks:berita palsu
 hoax:berita palsu
 hoby:hobi
 hacep:pecah
 hgu:hak guna-usah
 hard:keras
+aha:tertawa
 hayoo:ayo
 history:sejarah
 hayooooo:ayo
@@ -287,18 +336,24 @@ hatihati:hati-hati
 hbis:habis
 hati2:hati-hati
 how:bagaimana
+Hehehe:tertawa
 hahahanjing:anjing
+hahaha:tertawa
 handsssss:hands
 i:saya
+import:impor
 ikuttt:ikut
 insyallah:insya allah
+insaallah:insya allah
 itung:hitung
 ijin:izin
+indonesiaa:indonesia
 ig:instagram
 idiw:jijik
 insporasi:inspirasi
 inikah:ini
 indo:indonesia
+id:indonesia
 ingt:ingat
 ingsaallah:insya allah
 intellectuall:intelektual
@@ -312,10 +367,13 @@ in:di
 iklas:ikhlas
 jd:jadi
 joss:mantap
+josss:mantap
+jo:jovi
 just:cuma
 juny:juni
 jngan:jangan
 jiwaaa:jiwa
+juoossss:mantap
 jgn:jangan
 jadiin:jadikan
 janji2:janji janji
@@ -330,6 +388,7 @@ jogettt:menari
 joget:menari
 jokowie:jokowi
 janga:jangan
+josssss:mantap
 jokwidodo:joko widodo
 jo:jangan
 joss:mantap
@@ -342,11 +401,15 @@ joko:jokowi
 jokowiiii:jokowi
 jokowilagi:jokowi lagi
 kereeeeennnnn:keren
+kereeenn:keren
 kereeennnn:keren
 klh:kalah
+kakakuuu:kakak
+klau:kalau
 km:kamu
 kmu:kamu
 kereen:keren
+kagak:tidak
 kereeeeeeeenn:keren
 kelaskelaskelassss:berkelas
 kejem:kejam
@@ -356,6 +419,7 @@ koment:komentar
 ky:seperti
 komen:komentar
 kont*l:kontol
+kya:seperti
 kudaaaaaaaaa:kuda
 kerennnnnnn:keren
 kerennnnnn:keren
@@ -367,7 +431,7 @@ kbebasan:kebebasan
 ksn:kesini
 kelasss:berkelas
 knp:kenapa
-konten2:konten konten
+konten2:konten-konten
 ksni:kesini
 kece:keren
 kick:keluarkan
@@ -407,28 +471,37 @@ kudu:harus
 Kewren:keren
 ku:aku
 kuu:aku
+kontenya:kontennya
 kitamah:kita
 kalahe:kalah
 kw2:palsu
 keren2:keren keren
 kalia:kalian
+keok:kalah
 keeeren:keren
-kyk:kayak
+kyk:seperti
+kayak:seperti
 kontenkreator:pembuat konten
 kon***:kontol
 kakakakakaa:kakak
 krennn:keren
 karno:karena
 ktl:kontol
+ketawa":ketawa-ketawa
 kanggo:untuk
 ktawa:ketawa
 keereenn:keren
+kocak:lucu
 kaacaaaoow:kacau
 keep:menyimpan
 kerren:keren
 kelassssss:berkelas
 komenan:komentar
+knp:kenapa
+knpa:kenapa
 klk:kalau
+keiklasan:keihklasan
+kk:kakak
 kereeen:keren
 kalaau:kalau
 kidiw:wow
@@ -450,6 +523,7 @@ lur:saudara
 lmao:tertawa terpingkal-pingkal
 lanjutkn:lanjtkan
 loe:kamu
+lgi:lagi
 lg:lagi
 liittt:keren
 lit:keren
@@ -467,19 +541,29 @@ me:saya
 manaa:mana
 mntap:mantap
 mantaap:mantap
+mancay"mantap
+mntul:mantap betul
 mantraaaaaaappppppp:mantap
 mantapppp:mantap
+merindinggggggg:merinding
 musiknyaaa:musiknya
 mantapsss:mantap
+mantaps:mantap
 mengolok2:mengolok-ngolok
+mulu:terus
 maen:main
 merindingggg:merinding
+manthaaaap:mantap
 mewek:nangis
 maaanntuuull:mantap betul
 mrinding:merinding
 mantab:mantap
 made:membuat
 mainnnnn:main
+mylhnya:masalahnya
+mamgap:mantap
+mlh:malah
+mentup2:menutup-nutupi
 ml:mobile legend
 mainnnnn:main
 moment:momen
@@ -490,6 +574,7 @@ mesquen:miskin
 manut:nurut
 mk:mahkamah konstitusi
 muanteb:mantap
+mgkn:mungkin
 mudamudahan:mudah-mudahan
 musiknyaaa:musiknya
 muantul:mantap betul
@@ -506,14 +591,17 @@ masi:masih
 mantappppp:mantap
 meranin:berperan
 mf:maaf
+msh:masih
 msk:masuk
 majuuu:maju
+mslh:masalah
 msalah:masalah
 majuuuu:maju
 music:musik
 mantappppbbbsss:mantap
 mentri:menteri
 mantavvvv:mantap
+mantavv:mantap
 mikin:membuat
 muantull:mantap betul
 mcm:macam
@@ -521,9 +609,13 @@ mieeeelieeeeoooon:juta
 masyrakat:masyarakat
 mantav:mantap
 me:saya
+mantaaaaapp:mantap
 muantapz:mantap
+manteep:mantap
+merdekaa:merdeka
 ma:sama
 mantep:mantap
+mantapppppps:mantap
 mudah2:mudah-mudahan
 mantapp:mantap
 meledakk:meledak
@@ -535,6 +627,7 @@ ngomong:berbicara
 ngegasss:marah
 nyerang:menyerang
 negri:negeri
+nitip:menitipkan
 negriiiii:negeri
 ngerti:mengerti
 ngalahin:mengalahkan
@@ -542,6 +635,8 @@ negrikami:negeri kami
 nyebut:menyebut
 nyampe:sampai
 ngakakkkk:tertawa
+ngak:tidak
+nyesel:menyesal
 ngeriii:ngeri
 ngena:terkena
 ngulang2:mengulang-ngulang
@@ -551,21 +646,30 @@ ngalahin:mengalahkan
 ngemis:minta minta
 ngk:tidak
 ngakakkk:tertawa 
+nyara:nyata
 nongol:muncul
+ngulangin:mengulang
 ntaps:mantap
 nying:anjing
+ngomentarin:berkomentar
 ngga:tidak
 nyindir:mencela
 nich:ini
 ngakakkkk:tertawa
 ngamuk:marah marah
 ngarit:mencari rumput
+nggak:tidak
 n:dan
 notice:memperhatikan
+no:nomor
+nyoblos:mencoblos
+ntah:entah
 nontn:nonton
 nyalib:menyusul
 next:selanjutnya
 nntn:nonton
+nnton:nonton
+nyindir:menyindir
 niru:meniru
 ntab:mantap
 nontonkarna:nonton karena
@@ -580,6 +684,7 @@ nuhun:terima kasih
 nyerang:menyerang
 niatt:niat
 no:tidak
+nuntut:menuntut
 n0nt0n:nonton
 nice:baik
 ngak:tidak
@@ -597,11 +702,16 @@ petdjahhh:keren
 prrabowoooo:prabowo
 pemilu:pemilihan umum
 pansti:pasti
+pemimpinnyah:pemimpinnya
 petcaaaahhhh:keren
+penduking:pendukung
+pectah:keren
+prabowooo:prabowo
 pilpres:pemilihan presiden 
 priode:periode
 pas:saat
 paati:pasti
+pecahhhhhhhhhhhh:pecah
 pleciden:presiden
 potong":potong potong
 president:presiden
@@ -609,6 +719,7 @@ pepeeraaaaabowooooooo:prabowo
 plastique:plastik
 projoct:project
 pke:pakai
+perabo:prabowo
 pntng:penting
 pantul:pantun
 part:bagian
@@ -618,11 +729,14 @@ paan:apa
 plisss:please
 prabokep:prabowo
 pakde:pakdhe
+praiwo:prabowo
 parahhhh:parah
+paraahhhhh:parah
 phm:paham
 paarah:parah
 palisa:lalisa
 polll:banget
+pollll:banget
 puteru:ulang-ulang
 paan:apa
 paslonnya:pasang calon
@@ -634,6 +748,7 @@ pk:bapak
 prouunnddddd:bangga
 proundddd:bangga
 pretty:bagus
+plus:ditambah
 p:bapak
 prabowosandi:prabowo sandi
 pecaaaahhhhhh:pecah
@@ -641,7 +756,9 @@ parahhh:parah
 q:saya
 quit:keluar
 real:asli
+racuuuun:racun
 rapwh:rap
+rapp:rap
 really:sungguh
 review:ulasan
 rival:lawan
@@ -650,6 +767,7 @@ report:laporan
 request:usul
 rimex:remix
 reac:reaksi
+rispek:menghormati
 responnya:tanggapannya
 rabb:tuhan
 siapaa:siapa
@@ -657,12 +775,16 @@ sangaat:sangat
 shiap:siap
 suwe:sialan
 sya:saya
+syukaaakk:suka
+satu2nya:satu-satunya
+seandai:seandainya
 syekaliiiiii:sekali
 seruuu:seru
 sharing":membagi-bagikan
 sekiannnn:sekian
 speed:kecepatan
 suk:besok
+sickkk:sakit
 sebarin:menyebarkan
 sori:maaf
 sukaaa:suka
@@ -675,6 +797,7 @@ spek:spesifikasi
 sampek:sampai
 sgt:sangat
 sodara2:saudara-saudara
+seneng:senang
 same:sama
 skg:sekarang
 sue:sial
@@ -709,6 +832,7 @@ sharing:membagikan
 smpe:sampai
 sok:silahkan
 sampe:sampai
+segininya:bagus
 stay:tetap
 sick:sakit
 subiantoket:subianto
@@ -718,6 +842,7 @@ sprti:seperti
 sbatas:sebatas
 sbgainy:sebagainya
 skinyy:skinnyindonesian24
+sbgai:sebagai
 skiny:skinnyindonesian24
 skinny:skinnyindonesian24
 stop:menghentikan
@@ -726,6 +851,7 @@ sumpahhh:sumpah
 see:lihat
 skip:lewati
 stuju:setuju
+sudh:sudah
 se7:setuju
 sdkit:sedikit
 subcribe:subscribe
@@ -745,6 +871,7 @@ superrrrrrrr:super
 sapa:siapa
 sumpaaaah:sumpah
 samaan:sama
+sama²:sama-sama
 slam:salam
 sterusnya:seterusnya
 sm:sama
@@ -763,9 +890,12 @@ team:tim
 tgs:tugas
 terun:turun
 terbaek:terbaik
+tgl:tanggal
 tl:linimasa
 thun:tahun
 tonkoltol:kontol
+teren:trending
+trend:trending
 teteplah:tetap
 terbaikk:terbaik
 terepiccccc:terepik
@@ -776,12 +906,14 @@ tetep:tetap
 tsb:tersebut
 ttp:tetap
 tiruuu:tiru
+tpi:tapi
 tuh:itu
 tenan:banget
 triggret:pemicu
 top:mantap
 thx:terima kasih
 tinimbang:ketimbang
+tlong:tolong
 ter00s:terus
 teranan:terangan
 topic:topik
@@ -789,8 +921,10 @@ tgas:tegas
 tar:nanti
 too:juga
 to:untuk
+tulis:menulis
 thanks:terima kasih
 tru:benar
+tonton:menonton
 thebest:terbaik
 tiba2:tiba tiba
 truee:benar
@@ -801,9 +935,11 @@ totaaal:total
 trendinggg:trending
 teeeerrrlaluuu:terlalu
 thn:tahun
+tambahain:ditambahkan
 tka:tenaga kerja asing
 to:untuk
 ttep:tetap
+tak:tidak
 tkt:takut
 trs:terus
 tsakep:bagus
@@ -820,8 +956,9 @@ usa:usah
 unek2:unek unek
 uwu:lucu
 upp:up
+uppp:up
 udh:sudah
-ulang":ulang ulang
+ulang":ulang-ulang
 urus:mengurus
 vidio:video
 vidioo:video
@@ -835,11 +972,16 @@ vidio:videonya
 videoklip:video klip
 w:saya
 wouwwww:wow
+waw:wow
 win:menang
 wakil'a:wakilnya
 wong:orang
+Waahhh:wow
+wagelaseeehh:keren
 waaaww:wow
 wowwwww:wow
+wkwowkoko:tertawa
+wkwkww:tertawa
 wuabiisss:banget
 war:perang
 widi:wow
@@ -851,8 +993,10 @@ Wahgelahseh:keren
 wagelaseh:keren
 wowo:prabowo
 wkwk:tertawa
+wkwkw:tertawa
 wadepak:sialan
 wktu:waktu
+wkwkwk:tertawa
 wowowowo:prabowo
 wagelasehhhh:keren
 wagelaseeeeehhhh:keren
@@ -868,7 +1012,9 @@ yg:yang
 yang:yang
 yess:iya
 yng:yang
+youtuber2:youtuber youtuber
 yutuber:youtuber
+youtuberr:youtuber
 youtober:youtuber
 youtub:youtube
 y4ng:yang
