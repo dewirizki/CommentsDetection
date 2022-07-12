@@ -1868,7 +1868,6 @@ sono
 sei
 siamo
 siete
-sia
 siate
 siano
 sarai
@@ -2113,7 +2112,6 @@ nokor
 noko
 nokre
 si
-sia
 sidan
 so
 somt
